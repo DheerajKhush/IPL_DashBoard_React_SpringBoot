@@ -5,7 +5,7 @@ export const MatchPage = () => {
 
   
   return (
-    <div className="TeamPage">
+    <div className="MatchPage">
       <h1>Match Page</h1>
     </div>
   );
